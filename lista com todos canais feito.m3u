@@ -84,10 +84,10 @@ https://brflu.walk-tv.com/5932/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="SporTV" tvg-logo="https://imgur.com/bwqLqyg.png" group-title="Canais | ESPORTES",SporTV 4K
 http://xcui.vitvabc.xyz:8880/laok300/8pEZjdeMPad7/31169
 
-#EXTINF:-1 tvg-id="ESPN (1)" tvg-logo="https://imgur.com/bwqLqyg.png" group-title="Canais | ESPORTES",ESPN (1)
+#EXTINF:-1 tvg-id="ESPN (1)" tvg-logo="https://contenti1.espn.com.br/image/wide/622_566cac11-366f-3873-bbf8-c435493c7075.png" group-title="Canais | ESPORTES",ESPN (1)
 https://brflu.walk-tv.com/5912/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="ESPN (2)" tvg-logo="https://imgur.com/bwqLqyg.png" group-title="Canais | ESPORTES",ESPN (2)
+#EXTINF:-1 tvg-id="ESPN (2)" tvg-logo="https://contenti1.espn.com.br/image/wide/622_566cac11-366f-3873-bbf8-c435493c7075.png" group-title="Canais | ESPORTES",ESPN (2)
 https://cirion-aju.ittv.com.br/ESPN_BRASIL/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="Canais | ESPORTES",ESPN SD
@@ -101,4 +101,3 @@ https://brflu.walk-tv.com/5912/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="Canais | ESPORTES",ESPN FHD
 http://xcui.vitvabc.xyz:8880/laok300/8pEZjdeMPad7/31149
-
