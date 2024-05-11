@@ -44,6 +44,28 @@ https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u
 
 ############################################################################ Canais | ESPORTES BELZIN
 
-#EXTINF:-1 tvg-id="PREMIERE CLUBES (1)" tvg-name="PREMIERE CLUBES (1)" tvg-logo="https://s3.glbimg.com/v1/AUTH_f486c675dfaf4c6e96c25f0c21f85eb5/prod/home-share-1b75cdaa.png" group-title="Canais | ESPORTES BELZIN",PREMIERE CLUBES (1)
+#EXTINF:-1 tvg-id="PREMIERE CLUBES (1)" tvg-name="PREMIERE CLUBES (1)" tvg-logo="https://assets.goal.com/images/v3/bltf395068874dfe7f9/feb9c2070b32898e950adae21b937982f722cd41.jpg?auto=webp&format=pjpg&width=3840&quality=60" group-title="Canais | ESPORTES BELZIN",PREMIERE CLUBES (1)
 https://live-as-11-19.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtYXMtMTEtMTkudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNzE1NDY4MTkxLCJpYXQiOjE3MTUzODE3OTEsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiMGQzZTAyYjMtYzAwYi00NjEwLWJhZGQtZTIwYTI0NDViY2I3IiwicGF0aCI6Ii9udS9mKGJNaW49MjAwMCkvcGZjMS9wbGF5bGlzdC5tM3U4In0.Tx4Sp-YtMhwhoeAmJ5hrK9td8KOo2qj1WvuGcQO8HdrP4aQICOuUvf_p4oNQJgYjDIeTFWg2T6AAFSv00ONmoePpspbjf8iVREcx1Z_tSFuKm7OUgFfNqBdBXaekPmeaoAYjVViAQx9e-5Ly2pTKIZS5rMPfPpLSpYH5uYVOnY0_0HRV-f4vaYybmeLLwpcvlzyZV57NPhpc5RgsMFJF6-tabC-mFJLefkBHxmhlsXrpqDqNWiyKf9XINcMmM4WvCfNp9YPSYjwcZBkNfdv8uurjuaM1geNf4Q62AnJFJPtykFU7FJyDaIAo0Fxv8PPvtB_cfMZ-tLMdF5fW98ZQ3w/nu/f(bMin=2000)/pfc1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Premiere Clubes" tvg-logo="https://imgur.com/T6VmjYB.png" group-title="Canais | ESPORTES",Premiere Clubes SD
+https://cr7v.short.gy/manofree/PSD/Index.m3u8
+
+#EXTINF:-1 tvg-id="Premiere Clubes" tvg-logo="https://imgur.com/T6VmjYB.png" group-title="Canais | ESPORTES",Premiere Clubes HD
+https://brflu.walk-tv.com/5922/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Premiere Clubes" tvg-logo="https://imgur.com/T6VmjYB.png" group-title="Canais | ESPORTES",Premiere Clubes HD [Alter]
+https://cr7v.short.gy/manoiptvfree/PFCCLUBEHD/Index.m3u8
+
+#EXTINF:-1 tvg-id="Premiere Clubes HD" tvg-logo="https://imgur.com/T6VmjYB.png" group-title="Canais | ESPORTES",Premiere Clubes FHD
+https://cr7v.short.gy/manoiptvfree/PremiereClube/Index.m3u8
+
+#EXTINF:-1 tvg-id="SPORT TV (1)" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftelepedia.fandom.com%2Fpt-br%2Fwiki%2FSporTV&psig=AOvVaw1YpbC4KI6S2pooM4fbp2Sm&ust=1715477084730000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIDOqqO4hIYDFQAAAAAdAAAAABAE" group-title="Canais | ESPORTES",SPORT TV (1)
+https://bal01.vivartec.com.br:8088/hls/livechannel5.m3u8
+
+#EXTINF:-1 tvg-id="SPORT TV (2)" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftelepedia.fandom.com%2Fpt-br%2Fwiki%2FSporTV&psig=AOvVaw1YpbC4KI6S2pooM4fbp2Sm&ust=1715477084730000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIDOqqO4hIYDFQAAAAAdAAAAABAE" group-title="Canais | ESPORTES",SPORT TV (2)
+https://brflu.walk-tv.com/5922/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-id="SPORT TV (3)" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftelepedia.fandom.com%2Fpt-br%2Fwiki%2FSporTV&psig=AOvVaw1YpbC4KI6S2pooM4fbp2Sm&ust=1715477084730000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIDOqqO4hIYDFQAAAAAdAAAAABAE" group-title="Canais | ESPORTES",SPORT TV (3)
+https://brflu.walk-tv.com/5932/tracks-v1a1/mono.m3u8
 
