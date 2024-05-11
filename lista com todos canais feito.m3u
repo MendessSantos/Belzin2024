@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://cr7v.short.gy/MeuInsta@mano_limah"
 
 
-############################################################################ Canais | ABERTO
+############################################################################ Canais | ABERTOS BELZIN
 
 #EXTINF:-1 tvg-id="SBT 1" tvg-name="SBT 1" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/2048px-Logotipo_do_SBT.svg.png" group-title="Canais | ABERTO",SBT 1
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
@@ -42,8 +42,8 @@ https://live-as-04-14.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAi
 #EXTINF:-1 tvg-id="GLOBO 4" tvg-name="GLOBO 4" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png" group-title="Canais | ABERTO",Globo 4
 https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
 
-############################################################################ Canais | FECHADOS
+############################################################################ Canais | ESPORTES BELZIN
 
-#EXTINF:-1 tvg-id="SBT 1" tvg-name="SBT 1" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/2048px-Logotipo_do_SBT.svg.png" group-title="Canais | FECHADOS",SBT 1
-https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
+#EXTINF:-1 tvg-id="PREMIERE CLUBES (1)" tvg-name="PREMIERE CLUBES (1)" tvg-logo="https://s3.glbimg.com/v1/AUTH_f486c675dfaf4c6e96c25f0c21f85eb5/prod/home-share-1b75cdaa.png" group-title="Canais | ESPORTES BELZIN",PREMIERE CLUBES (1)
+https://live-as-11-19.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtYXMtMTEtMTkudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNzE1NDY4MTkxLCJpYXQiOjE3MTUzODE3OTEsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiMGQzZTAyYjMtYzAwYi00NjEwLWJhZGQtZTIwYTI0NDViY2I3IiwicGF0aCI6Ii9udS9mKGJNaW49MjAwMCkvcGZjMS9wbGF5bGlzdC5tM3U4In0.Tx4Sp-YtMhwhoeAmJ5hrK9td8KOo2qj1WvuGcQO8HdrP4aQICOuUvf_p4oNQJgYjDIeTFWg2T6AAFSv00ONmoePpspbjf8iVREcx1Z_tSFuKm7OUgFfNqBdBXaekPmeaoAYjVViAQx9e-5Ly2pTKIZS5rMPfPpLSpYH5uYVOnY0_0HRV-f4vaYybmeLLwpcvlzyZV57NPhpc5RgsMFJF6-tabC-mFJLefkBHxmhlsXrpqDqNWiyKf9XINcMmM4WvCfNp9YPSYjwcZBkNfdv8uurjuaM1geNf4Q62AnJFJPtykFU7FJyDaIAo0Fxv8PPvtB_cfMZ-tLMdF5fW98ZQ3w/nu/f(bMin=2000)/pfc1/playlist.m3u8
 
