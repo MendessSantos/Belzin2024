@@ -6,7 +6,8 @@ https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
 #EXTINF:-1 tvg-id="Sbt" tvg-name="Sbt" tvg-logo="https://www.portaldosjornalistas.com.br/wp-content/uploads/2020/07/SBT-logo.jpg" group-title="Canais | ABERTO", SBT 2
 https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Sbt" tvg-name="Sbt" tvg-logo="https://www.portaldosjornalistas.com.br/wp-content/uploads/2020/07/SBT-logo.jpg" group-title="Canais | ABERTO", SBT 3
+#EXTINF:-1 tvg-id="Sbt" tvg-name="Sbt" tvg-logo="https://www.portaldom
+sjornalistas.com.br/wp-content/uploads/2020/07/SBT-logo.jpg" group-title="Canais | ABERTO", SBT 3
 https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/chunklist_w1633762680.m3u8
 
 #EXTINF:-1 tvg-id="Sbt" tvg-name="Sbt" tvg-logo="https://www.portaldosjornalistas.com.br/wp-content/uploads/2020/07/SBT-logo.jpg" group-title="Canais | ABERTO", SBT 4
@@ -191,7 +192,7 @@ https://cdn-3.nxplay.com.br/ESPN_4/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Zz2VFpL.png" group-title="Canais | ESPORTES",ESPN 5 HD
 http://xciptv.aplicativos.top:80/gabi4834/Bfh92928beb/118751
 
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1205/1205526.png" group-title="Canais | ESPORTES",PREMIERE CB START CLUB
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1205/1205526.png" group-title="Canais | ESPORTES",PREMIERE CB START CLUB6
 http://saturno.bucarestshop.online:2095/live2/premiereclubes/chunks.m3u8?token=1715577421_c8bf5d5d4eadc88a55d7b1290e8d41290b7cc7c9
 
 
