@@ -37,8 +37,7 @@ https://enc2.proxy.tokplay.com.br/TV-SOROCABA-HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://imgur.com/KO1v3pS.png" group-title="Canais | ABERTO",SBT Interior SP HD
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8?ManoTV
 
-#EXTINF:-1 tvg-id="Record" tvg-name="Record" tvg-logo="https://observatoriodatv.uol.com.br/wp-content/uploads/2015/09/logo-record-novo11-620x6311.jpg" group-title="Canais | ABERTO", RECORD 1 BEL
-https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
+chunklist.m3u8
 
 #EXTINF:-1 tvg-id="Record" tvg-name="Record" tvg-logo="https://observatoriodatv.uol.com.br/wp-content/uploads/2015/09/logo-record-novo11-620x6311.jpg" group-title="Canais | ABERTO", RECORD 2 BEL
 http://acsb.sh:80/1618707692/4KvYg4KndKHJ/96522.m3u8
