@@ -6,9 +6,9 @@ https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
 #EXTINF:-1 tvg-id="Sbt" tvg-name="Sbt" tvg-logo="https://www.portaldosjornalistas.com.br/wp-content/uploads/2020/07/SBT-logo.jpg" group-title="Canais | ABERTO", SBT 2
 https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Sbt" tvg-name="Sbt" tvg-logo="https://www.portaldom
-sjornalistas.com.br/wp-content/uploads/2020/07/SBT-logo.jpg" group-title="Canais | ABERTO", SBT 3
+#EXTINF:-1 tvg-id="Sbt" tvg-name="Sbt" tvg-logo="https://www.portaldosjornalistas.com.br/wp-content/uploads/2020/07/SBT-logo.jpg" group-title="Canais | ABERTO", SBT 3
 https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/chunklist_w1633762680.m3u8
+
 
 #EXTINF:-1 tvg-id="Sbt" tvg-name="Sbt" tvg-logo="https://www.portaldosjornalistas.com.br/wp-content/uploads/2020/07/SBT-logo.jpg" group-title="Canais | ABERTO", SBT 4
 https://stream.amsolution.net.br:8443/live/60d0a8ea6b884/index.m3u8
@@ -126,8 +126,8 @@ http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/49
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/k4fl1wF.png" group-title="Canais | ABERTO",Globo BA HD
 https://cr7v.short.gy/manoiptvfree/REDEBA/Index.m3u8
 
-#EXTINF:-1 tvg-id="Premiere" tvg-name="Premiere" tvg-logo="https://melhorescolha.com/blog/wp-content/uploads/2024/01/preco-do-premiere.jpg" group-title="Canais | ABERTO", PREMIERE CLUBES (1)
-https://live-as-11-19.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtYXMtMTEtMTkudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNzE1NDY4MTkxLCJpYXQiOjE3MTUzODE3OTEsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiMGQzZTAyYjMtYzAwYi00NjEwLWJhZGQtZTIwYTI0NDViY2I3IiwicGF0aCI6Ii9udS9mKGJNaW49MjAwMCkvcGZjMS9wbGF5bGlzdC5tM3U4In0.Tx4Sp-YtMhwhoeAmJ5hrK9td8KOo2qj1WvuGcQO8HdrP4aQICOuUvf_p4oNQJgYjDIeTFWg2T6AAFSv00ONmoePpspbjf8iVREcx1Z_tSFuKm7OUgFfNqBdBXaekPmeaoAYjVViAQx9e-5Ly2pTKIZS5rMPfPpLSpYH5uYVOnY0_0HRV-f4vaYybmeLLwpcvlzyZV57NPhpc5RgsMFJF6-tabC-mFJLefkBHxmhlsXrpqDqNWiyKf9XINcMmM4WvCfNp9YPSYjwcZBkNfdv8uurjuaM1geNf4Q62AnJFJPtykFU7FJyDaIAo0Fxv8PPvtB_cfMZ-tLMdF5fW98ZQ3w/nu/f(bMin=2000)/pfc1/playlist.m3u8
+#EXTINF:-1 tvg-id="Premiere" tvg-name="Premiere" tvg-logo="https://melhorescolha.com/blog/wp-content/uploads/2024/01/preco-do-premiere.jpg" group-title="Canais | ABERTO", PREMIERE CLUBES (2)
+http://saturno.bucarestshop.online:2095/live2/premiereclubes/chunks.m3u8?token=1715577421_c8bf5d5d4eadc88a55d7b1290e8d41290b7cc7c9
 
 #EXTINF:-1 tvg-id="Premiere Clubes" tvg-logo="https://imgur.com/T6VmjYB.png" group-title="Canais | ESPORTES",Premiere Clubes SD
 https://cr7v.short.gy/manofree/PSD/Index.m3u8
