@@ -37,8 +37,11 @@ https://enc2.proxy.tokplay.com.br/TV-SOROCABA-HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://imgur.com/KO1v3pS.png" group-title="Canais | ABERTO",SBT Interior SP HD
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8?ManoTV
 
-#EXTINF:-1 tvg-id="Record" tvg-name="Record" tvg-logo="https://observatoriodatv.uol.com.br/wp-content/uploads/2015/09/logo-record-novo11-620x6311.jpg" group-title="Canais | ABERTO", RECORD 1
+#EXTINF:-1 tvg-id="Record" tvg-name="Record" tvg-logo="https://observatoriodatv.uol.com.br/wp-content/uploads/2015/09/logo-record-novo11-620x6311.jpg" group-title="Canais | ABERTO", RECORD 1 BEL
 https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="Record" tvg-name="Record" tvg-logo="https://observatoriodatv.uol.com.br/wp-content/uploads/2015/09/logo-record-novo11-620x6311.jpg" group-title="Canais | ABERTO", RECORD 2 BEL
+http://acsb.sh:80/1618707692/4KvYg4KndKHJ/96522.m3u8
 
 #EXTINF:-1 tvg-id="RecordTV" tvg-name="RecordTV" tvg-logo="https://imgur.com/lyQ1v9M.png" group-title="Canais | ABERTO",RecordTV BA HD
 http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/39
@@ -72,11 +75,16 @@ https://8mwx.short.gy/RECORDRS/index.m3u8
 
 #EXTINF:-1 tvg-id="RecordTV" tvg-name="RecordTV" tvg-logo="https://imgur.com/lyQ1v9M.png" group-title="Canais | ABERTO",RecordTV DF
 
-#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://gkpb.com.br/wp-content/uploads/2021/12/novo-logo-tv-globo.jpg" group-title="Canais | ABERTO", GLOBO 1
-https://live-as-11-33.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtYXMtMTEtMzMudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNzE1NDY5MDg4LCJpYXQiOjE3MTUzODI2ODgsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiMGQzZTAyYjMtYzAwYi00NjEwLWJhZGQtZTIwYTI0NDViY2I3IiwicGF0aCI6Ii9udS9mKGJNaW49MjAwMCxkdnI9MTIwKS9nbG9iby1kZi9wbGF5bGlzdC5tM3U4In0.Dn7swyMtgWiSo8lQAdO2wfLnkSOOGageWTpfXBNXI1-CaJlHTD0PBSeXS1JGllYR3CIfAemy32rKHGykdPEWQRO4bvRJNlx9euKIYETplKl-qR9cWNbBxNdduosVuEHuAhUiBRxM7zoQGZ9BMAb1SB7P2dcympT2cWCAfb4YvMaokBr34DBoz_g43t1lgYQ0krXXUiyvqZbRWgHSqr0BTyS5j9fYuil511mSfZkEoHZo97o5IMnUI5RJG6_ZVFIalOB2Ouq3AUux8moU6RYhqkH53S75cKnrm7hZ53drX8GzpS3oN53LwIIOxQtcnq2bSgioZmxiuhjAM6E5p7h9Yw/nu/f(bMin=2000,dvr=120)/globo-df/playlist.m3u8
+#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://gkpb.com.br/wp-content/uploads/2021/12/novo-logo-tv-globo.jpg" group-title="Canais | ABERTO", GLOBO 1 BEL
+http://izcdn.vood.top:80/live/ottplayerchannel/JFYQWKNbCUe5/289883.m3u8
 
-#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://gkpb.com.br/wp-content/uploads/2021/12/novo-logo-tv-globo.jpg" group-title="Canais | ABERTO", GLOBO 2
-https://live-as-10-13.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtYXMtMTAtMTMudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNzE1NDY4OTM0LCJpYXQiOjE3MTUzODI1MzQsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiMGQzZTAyYjMtYzAwYi00NjEwLWJhZGQtZTIwYTI0NDViY2I3IiwicGF0aCI6Ii9udS9mKGJNaW49MjAwMCxkdnI9MTIwKS9nbG9iby1yai9wbGF5bGlzdC5tM3U4In0.zfLG83BLPh4JXSM5zFfYGD-AHVGVZEQXVdUNYfyrjBXre9qWzvRORGJ_pXh88XZKaCj0WP2aW8FIKejS1QMrzfu2WA5x1pz-D3hTy1d1UJu8zGJgdlhbNUKCEv-8hKHTS9MBcJDqWWy7QKJTBDx2aFnsfTibNJQlRNNQ2f595p0SY8xDvcW32b6NgNNEVDhBQtYwfK3TJbpUgiluaO4q-vzFtEqmGA915CT0LV1QroWq1p1Wm290VyK_-2TSyE_PYTmARfbaw66BYrPUSDslFB2NGDmnhjJpl8Mgq0-UN1z9FVQBVYhuoCj_FLIa-Tmh1jZvG8psfJ3gGFCwaRmKSA/nu/f(bMin=2000,dvr=120)/globo-rj/playlist.m3u8
+#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://gkpb.com.br/wp-content/uploads/2021/12/novo-logo-tv-globo.jpg" group-title="Canais | ABERTO", GLOBO 2 BEL
+http://izcdn.vood.top:80/live/ottplayerchannel/JFYQWKNbCUe5/289881.m3u8
+
+#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://gkpb.com.br/wp-content/uploads/2021/12/novo-logo-tv-globo.jpg" group-title="Canais | ABERTO", GLOBO 3 BEL
+http://acsb.sh:80/1618707692/4KvYg4KndKHJ/72040.m3u8
+
+
 
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | ABERTO",Globo Liberal Belém HD
 http://xcui.vitvabc.xyz:8880/laok300/8pEZjdeMPad7/33737
@@ -162,10 +170,10 @@ http://xcui.vitvabc.xyz:8880/laok300/8pEZjdeMPad7/31543
 #EXTINF:-1 tvg-id="PREMIERE 7" tvg-logo="https://imgur.com/XqTjkAw.png" group-title="Canais | ESPORTES",Premiere 7 HD
 http://xcui.vitvabc.xyz:8880/laok300/8pEZjdeMPad7/31545
 
-#EXTINF:-1 tvg-id="Espn" tvg-name="Espn" tvg-logo="https://i.pinimg.com/736x/b3/69/c7/b369c7454adc03bfea8c6b2f4268be5a.jpg" group-title="Canais | ABERTO", ESPN (1)
+#EXTINF:-1 tvg-id="Espn" tvg-name="Espn" tvg-logo="https://i.pinimg.com/736x/b3/69/c7/b369c7454adc03bfea8c6b2f4268be5a.jpg" group-title="Canais | ABERTO", ESPN (1) BEL
 https://brflu.walk-tv.com/5912/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Espn" tvg-name="Espn" tvg-logo="https://i.pinimg.com/736x/b3/69/c7/b369c7454adc03bfea8c6b2f4268be5a.jpg" group-title="Canais | ABERTO", ESPN (2)
+#EXTINF:-1 tvg-id="Espn" tvg-name="Espn" tvg-logo="https://i.pinimg.com/736x/b3/69/c7/b369c7454adc03bfea8c6b2f4268be5a.jpg" group-title="Canais | ABERTO", ESPN (2) BEL
 https://cirion-aju.ittv.com.br/ESPN_BRASIL/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="Canais | ESPORTES",ESPN SD
