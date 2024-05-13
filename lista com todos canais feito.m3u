@@ -18,9 +18,26 @@ https://video07.logicahost.com.br/portaldatropical/portaldatropical/chunklist_w1
 #EXTINF:-1 tvg-id="record tv" tvg-name="RECORD TV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png" group-title="Canais Abertos",Record TV MT
 https://cdn.live.br1.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/chunklist.m3u8
 
+#EXTINF:-1 tvg-id="record tv" tvg-name="RECORD TV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png" group-title="Canais Abertos",Record TV  (2)
+https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="record tv" tvg-name="RECORD TV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png" group-title="Canais Abertos",Record TV MT (3)
+https://5a2b083e9f360.streamlock.net/tvmt/tvmt.sdp/chunklist_w1071238553.m3u8
+
 #EXTINF:-1 tvg-id="globo" tvg-name="GLOBO" tvg-logo="https://aaronturatv.ig.com.br/wp-content/uploads/2022/02/logo-globo-coluna.jpg" group-title="Canais Abertos",Globo Amazonas 
 https://3d30a042367404fa.mediapackage.sa-east-1.amazonaws.com/out/v1/c5e55defd54a4e57a9dd4469bf889073/index_1.m3u8
 
 #EXTINF:-1 tvg-id="globo" tvg-name="GLOBO" tvg-logo="https://aaronturatv.ig.com.br/wp-content/uploads/2022/02/logo-globo-coluna.jpg" group-title="Canais Abertos",Globo SP
 http://acsb.sh/1618707692/4KvYg4KndKHJ/72040.m3u8
 
+#EXTINF:-1 tvg-id="globo" tvg-name="GLOBO" tvg-logo="https://aaronturatv.ig.com.br/wp-content/uploads/2022/02/logo-globo-coluna.jpg" group-title="Canais Abertos",Globo DF
+https://live-as-03-35.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtYXMtMDMtMzUudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNzE1NzE4MDM3LCJpYXQiOjE3MTU2MzE2MzcsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiMGQzZTAyYjMtYzAwYi00NjEwLWJhZGQtZTIwYTI0NDViY2I3IiwicGF0aCI6Ii9udS9mKGJNaW49MjAwMCxkdnI9MTIwKS9nbG9iby1kZi9wbGF5bGlzdC5tM3U4In0.acdXKUzXH-PlMKjX3Klor-6IOyXZ5yyp3DUBLeb8H63VrFtCXj-tCMlEjy7f_B0hUan9CmQxpXEQfi2OGFfOwT9DbcYhIixB2q1piq2xH-KUrf7H9vByJRGiVsQMBVjBesQH0N5Duhj62pbAq1m9xGK2tj5ROQT3h6j211nzLnVViPRrbo8SnDT--DBMMNRZs9QAotkoHyn2UCcKuGYQ6MLa6zIAeszo8K0GcTdWD5GObaMvj1ahUpPl4AHg-_4OXThlvxeSJ_mzG-StIvFSBh8m550dEbuCYLBz9o1Qnaq72XQNR9hOenl9KQJhXvHtmox1v7vHI2DpwVFYvO9qqw/nu/f(bMin=2000,dvr=120)/globo-df/playlist.m3u8
+
+#EXTINF:-1 tvg-id="globo" tvg-name="GLOBO" tvg-logo="https://aaronturatv.ig.com.br/wp-content/uploads/2022/02/logo-globo-coluna.jpg" group-title="Canais Abertos",Globo MG
+https://live-as-03-07.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtYXMtMDMtMDcudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNzE1NzE4MTAzLCJpYXQiOjE3MTU2MzE3MDMsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiMGQzZTAyYjMtYzAwYi00NjEwLWJhZGQtZTIwYTI0NDViY2I3IiwicGF0aCI6Ii9udS9mKGJNaW49MjAwMCxkdnI9MTIwKS9nbG9iby1iaC9wbGF5bGlzdC5tM3U4In0.b-3W6DuzUzSwz0DkztEctauByvdnSoEa76uNlEClrYhKXOn7mDaQDBEPS2fIyebh7fE_fF6PP1yocBZmqtlQn6AuX5_zsk7mbsN279XdIFIzxpcy1lmoAGIAe2y7_SGErV8PTiUrvk1CvF-VqBVlAkVOHtKXBB0h0PmPmMgKBepcRt50d-rHqQdPNm_fh-kRRYqT4L3SA3T1FaTMaMSAdugUYc0J_WSY27hfxsv3MrUJqTH1gjOHU9xj0NVo7lS9e0bv1yvXJerGXUUWkLEMTvviTey-nD6UMoF70rlnPPjiscPuZtzwj5yIkKFIFHdrUvOdJ0FTFAx6VknXNUYACg/nu/f(bMin=2000,dvr=120)/globo-bh/playlist.m3u8
+
+#EXTINF:-1 tvg-id="premiere globo" tvg-name="PREMIERE GLOBO" tvg-logo="https://melhorescolha.com/blog/wp-content/uploads/2024/01/preco-do-premiere.jpg" group-title="Canais Esportes",Premiere Clubes (1)
+https://encurtador.com.br/cqBN2
+
+#EXTINF:-1 tvg-id="premiere globo" tvg-name="PREMIERE GLOBO" tvg-logo="https://melhorescolha.com/blog/wp-content/uploads/2024/01/preco-do-premiere.jpg" group-title="Canais Esportes",Premiere Clubes (2)
+https://encurtador.com.br/hHIJL
