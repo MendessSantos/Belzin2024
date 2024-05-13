@@ -36,8 +36,11 @@ https://live-as-03-35.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAi
 #EXTINF:-1 tvg-id="globo" tvg-name="GLOBO" tvg-logo="https://aaronturatv.ig.com.br/wp-content/uploads/2022/02/logo-globo-coluna.jpg" group-title="Canais Abertos",Globo MG
 https://live-as-03-07.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtYXMtMDMtMDcudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNzE1NzE4MTAzLCJpYXQiOjE3MTU2MzE3MDMsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiMGQzZTAyYjMtYzAwYi00NjEwLWJhZGQtZTIwYTI0NDViY2I3IiwicGF0aCI6Ii9udS9mKGJNaW49MjAwMCxkdnI9MTIwKS9nbG9iby1iaC9wbGF5bGlzdC5tM3U4In0.b-3W6DuzUzSwz0DkztEctauByvdnSoEa76uNlEClrYhKXOn7mDaQDBEPS2fIyebh7fE_fF6PP1yocBZmqtlQn6AuX5_zsk7mbsN279XdIFIzxpcy1lmoAGIAe2y7_SGErV8PTiUrvk1CvF-VqBVlAkVOHtKXBB0h0PmPmMgKBepcRt50d-rHqQdPNm_fh-kRRYqT4L3SA3T1FaTMaMSAdugUYc0J_WSY27hfxsv3MrUJqTH1gjOHU9xj0NVo7lS9e0bv1yvXJerGXUUWkLEMTvviTey-nD6UMoF70rlnPPjiscPuZtzwj5yIkKFIFHdrUvOdJ0FTFAx6VknXNUYACg/nu/f(bMin=2000,dvr=120)/globo-bh/playlist.m3u8
 
-#EXTINF:-1 tvg-id="premiere globo" tvg-name="PREMIERE GLOBO" tvg-logo="https://melhorescolha.com/blog/wp-content/uploads/2024/01/preco-do-premiere.jpg" group-title="Canais Esportes",Premiere Clubes (1)
+#EXTINF:-1 tvg-id="premiere clubes" tvg-name="PREMIERE CLUBES" tvg-logo="https://melhorescolha.com/blog/wp-content/uploads/2024/01/preco-do-premiere.jpg" group-title="Canais Esportes",Premiere Clubes (1)
 https://encurtador.com.br/cqBN2
 
-#EXTINF:-1 tvg-id="premiere globo" tvg-name="PREMIERE GLOBO" tvg-logo="https://melhorescolha.com/blog/wp-content/uploads/2024/01/preco-do-premiere.jpg" group-title="Canais Esportes",Premiere Clubes (2)
+#EXTINF:-1 tvg-id="premiere clubes" tvg-name="PREMIERE CLUBES" tvg-logo="https://melhorescolha.com/blog/wp-content/uploads/2024/01/preco-do-premiere.jpg" group-title="Canais Esportes",Premiere Clubes (2)
 https://encurtador.com.br/hHIJL
+
+#EXTINF:-1 tvg-id="sporttv (1)" tvg-name="SPORTTV (1)" tvg-logo="https://static.wikia.nocookie.net/tvpediabrasil/images/2/22/Sportv-nova-logo.jpg/revision/latest?cb=20211110213641&path-prefix=pt-br" group-title="Canais Esportes",SportTV (1)
+https://brflu.walk-tv.com/5932/tracks-v1a1/mono.m3u8
