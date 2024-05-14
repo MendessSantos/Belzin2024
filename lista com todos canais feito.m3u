@@ -42,5 +42,29 @@ https://encurtador.com.br/cqBN2
 #EXTINF:-1 tvg-id="premiere clubes" tvg-name="PREMIERE CLUBES" tvg-logo="https://melhorescolha.com/blog/wp-content/uploads/2024/01/preco-do-premiere.jpg" group-title="Canais Esportes",Premiere Clubes (2)
 https://encurtador.com.br/hHIJL
 
-#EXTINF:-1 tvg-id="sporttv (1)" tvg-name="SPORTTV (1)" tvg-logo="https://static.wikia.nocookie.net/tvpediabrasil/images/2/22/Sportv-nova-logo.jpg/revision/latest?cb=20211110213641&path-prefix=pt-br" group-title="Canais Esportes",SportTV (1)
+#EXTINF:-1 tvg-id="sporttv (1)" tvg-name="SPORTTV (1)" tvg-logo="https://www.publicitarioscriativos.com/wp-content/uploads/2021/11/256270294_4945882598768172_3870191302760612802_n.png" group-title="Canais Esportes",SportTV (1)
 https://brflu.walk-tv.com/5932/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="sporttv (2)" tvg-name="SPORTTV (2)" tvg-logo="https://www.publicitarioscriativos.com/wp-content/uploads/2021/11/256270294_4945882598768172_3870191302760612802_n.png" group-title="Canais Esportes",SportTV (2)
+https://brflu.walk-tv.com/5922/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="sporttv (3)" tvg-name="SPORTTV (3)" tvg-logo="https://www.publicitarioscriativos.com/wp-content/uploads/2021/11/256270294_4945882598768172_3870191302760612802_n.png" group-title="Canais Esportes",SportTV (3)
+https://bal01.vivartec.com.br:8088/hls/livechannel5.m3u8
+
+#EXTINF:-1 tvg-id="espn (1)" tvg-name="ESPN (1)" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_ma030CksbiH0ueLUATKsGGEmZkmIdjFcS_uiI49Mton8Jz=s900-c-k-c0x00ffffff-no-rj" group-title="Canais Esportes",Espn (1)
+https://brflu.walk-tv.com/5912/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="espn (2)" tvg-name="ESPN (2)" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_ma030CksbiH0ueLUATKsGGEmZkmIdjFcS_uiI49Mton8Jz=s900-c-k-c0x00ffffff-no-rj" group-title="Canais Esportes",Espn (2)
+https://cirion-aju.ittv.com.br/ESPN_BRASIL/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="espn 2 (2)" tvg-name="ESPN 2 (2)" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_ma030CksbiH0ueLUATKsGGEmZkmIdjFcS_uiI49Mton8Jz=s900-c-k-c0x00ffffff-no-rj" group-title="Canais Esportes",Espn 2 (2)
+https://brflu.walk-tv.com/5910/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="band sports (1)" tvg-name="BAND SPORTS (1)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPhszjEKcIuhk6D2VGVSPnwR6lbcIf08TiDw91bhT0dBnRRzvQ0YoKrvg&s=10" group-title="Canais Esportes",BAND SPORTS (1)
+https://brflu.walk-tv.com/5921/tracks-v1a1/mono.m3u8
+
+
+
+
+
+
