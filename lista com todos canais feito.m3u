@@ -36,10 +36,38 @@ https://live-as-03-35.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAi
 #EXTINF:-1 tvg-id="globo" tvg-name="GLOBO" tvg-logo="https://aaronturatv.ig.com.br/wp-content/uploads/2022/02/logo-globo-coluna.jpg" group-title="Canais Abertos",Globo MG
 https://live-as-03-07.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtYXMtMDMtMDcudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNzE1NzE4MTAzLCJpYXQiOjE3MTU2MzE3MDMsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiMGQzZTAyYjMtYzAwYi00NjEwLWJhZGQtZTIwYTI0NDViY2I3IiwicGF0aCI6Ii9udS9mKGJNaW49MjAwMCxkdnI9MTIwKS9nbG9iby1iaC9wbGF5bGlzdC5tM3U4In0.b-3W6DuzUzSwz0DkztEctauByvdnSoEa76uNlEClrYhKXOn7mDaQDBEPS2fIyebh7fE_fF6PP1yocBZmqtlQn6AuX5_zsk7mbsN279XdIFIzxpcy1lmoAGIAe2y7_SGErV8PTiUrvk1CvF-VqBVlAkVOHtKXBB0h0PmPmMgKBepcRt50d-rHqQdPNm_fh-kRRYqT4L3SA3T1FaTMaMSAdugUYc0J_WSY27hfxsv3MrUJqTH1gjOHU9xj0NVo7lS9e0bv1yvXJerGXUUWkLEMTvviTey-nD6UMoF70rlnPPjiscPuZtzwj5yIkKFIFHdrUvOdJ0FTFAx6VknXNUYACg/nu/f(bMin=2000,dvr=120)/globo-bh/playlist.m3u8
 
-#EXTINF:-1 tvg-id="premiere clubes" tvg-name="PREMIERE CLUBES" tvg-logo="https://melhorescolha.com/blog/wp-content/uploads/2024/01/preco-do-premiere.jpg" group-title="Canais Esportes",Premiere Clubes OPÇÃO (1)
-https://live-as-03-35.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtYXMtMDMtMzUudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNzE1ODc3Mzg3LCJpYXQiOjE3MTU3OTA5ODcsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiMGQzZTAyYjMtYzAwYi00NjEwLWJhZGQtZTIwYTI0NDViY2I3IiwicGF0aCI6Ii9udS9mKGJNaW49MjAwMCkvcGZjMS9wbGF5bGlzdC5tM3U4In0.QNCynZVTZzjCB118HubT7tAo36sLVCPgV9pJTuJQPEYX1GdbsdqkFsSh8ryvup1EzHpKrUbfwQnUPTI9n-3q7NE5CZQYhBCuU7Hz5hJ5WwKpD-t4_SsXDVf6cLQwcJUcQKtZCCIiKdTTTXmqIBh1T_Li-q6CvIY46i3z22frqnWYM9pvqvbNaGUOio5TIVAgxKU64liwccPg_QFEM9yiWBTKzJHXcsKocie_0HAyxTTKdQsO6HypuMqaA3Vo-23TeBn3YepsabWntFnC2SDF_F5lfzn4oGOq3JCdG7al9UfwT2A6Jw15II8PcpSDU8wlmfFXxu6QwDCQbSivkmbH_Q/nu/f(bMin=2000)/pfc1/playlist.m3u8
-#EXTINF:-1 tvg-id="premiere clubes" tvg-name="PREMIERE CLUBES" tvg-logo="https://melhorescolha.com/blog/wp-content/uploads/2024/01/preco-do-premiere.jpg" group-title="Canais Esportes",Premiere Clubes OPÇÃO (2)
-https://cdntv0800.com/premiere/tracks-v1a1/mono.m3u8?remote=186.215.80.130&token=d20c210e97e69dfa0e7fddf64cff77512e0e73cc-ddc19e7a9e3f2a5869687cf8c1f36962-1715794437-1715790837
+#EXTINF:-1 tvg-id="Premiere Clubes" tvg-logo="https://imgur.com/T6VmjYB.png" group-title="Canais | ESPORTES",Premiere Clubes SD
+https://cr7v.short.gy/manofree/PSD/Index.m3u8
+
+#EXTINF:-1 tvg-id="Premiere Clubes" tvg-logo="https://imgur.com/T6VmjYB.png" group-title="Canais | ESPORTES",Premiere Clubes HD
+https://cr7v.short.gy/manofree/PHD/Index.m3u8
+
+#EXTINF:-1 tvg-id="Premiere Clubes" tvg-logo="https://imgur.com/T6VmjYB.png" group-title="Canais | ESPORTES",Premiere Clubes HD [Alter]
+https://cr7v.short.gy/manoiptvfree/PFCCLUBEHD/Index.m3u8
+
+#EXTINF:-1 tvg-id="Premiere Clubes HD" tvg-logo="https://imgur.com/T6VmjYB.png" group-title="Canais | ESPORTES",Premiere Clubes FHD
+https://cr7v.short.gy/manoiptvfree/PremiereClube/Index.m3u8
+
+#EXTINF:-1 tvg-id="PREMIERE 2 HD" tvg-logo="https://imgur.com/Sa86nNV.png" group-title="Canais | ESPORTES",Premiere 2 HD
+http://150.136.62.38:8880/channel/n11c6e260/index.m3u8?q=1704444391508
+
+#EXTINF:-1 tvg-id="PREMIERE 2 HD" tvg-logo="https://imgur.com/Sa86nNV.png" group-title="Canais | ESPORTES",Premiere 2 FHD
+http://xcui.vitvabc.xyz:8880/laok300/8pEZjdeMPad7/31529
+
+#EXTINF:-1 tvg-id="PREMIERE 3 HD" tvg-logo="https://imgur.com/vdKC1eu.png" group-title="Canais | ESPORTES",Premiere 3 HD
+http://185.150.190.225:16468/
+
+#EXTINF:-1 tvg-id="PREMIERE 4" tvg-logo="https://imgur.com/n5KKEiL.png" group-title="Canais | ESPORTES",Premiere 4 HD
+http://xcui.vitvabc.xyz:8880/laok300/8pEZjdeMPad7/31537
+
+#EXTINF:-1 tvg-id="PREMIERE 5 HD" tvg-logo="https://imgur.com/qVVCNKG.png" group-title="Canais | ESPORTES",Premiere 5 HD
+http://185.150.190.225:16476/
+
+#EXTINF:-1 tvg-id="PREMIERE 6" tvg-logo="https://imgur.com/4CAJWni.png" group-title="Canais | ESPORTES",Premiere 6 HD
+http://xcui.vitvabc.xyz:8880/laok300/8pEZjdeMPad7/31543
+
+#EXTINF:-1 tvg-id="PREMIERE 7" tvg-logo="https://imgur.com/XqTjkAw.png" group-title="Canais | ESPORTES",Premiere 7 HD
+http://xcui.vitvabc.xyz:8880/laok300/8pEZjdeMPad7/31545
 
 #EXTINF:-1 tvg-id="sporttv (1)" tvg-name="SPORTTV (1)" tvg-logo="https://www.publicitarioscriativos.com/wp-content/uploads/2021/11/256270294_4945882598768172_3870191302760612802_n.png" group-title="Canais Esportes",SportTV OPÇÃO (1)
 https://brflu.walk-tv.com/5932/tracks-v1a1/mono.m3u8
