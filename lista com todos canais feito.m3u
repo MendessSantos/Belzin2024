@@ -90,6 +90,9 @@ https://brflu.walk-tv.com/5910/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="band sports (1)" tvg-name="BAND SPORTS (1)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPhszjEKcIuhk6D2VGVSPnwR6lbcIf08TiDw91bhT0dBnRRzvQ0YoKrvg&s=10" group-title="Canais Esportes",BAND SPORTS (1)
 https://brflu.walk-tv.com/5921/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-id="band sports (1)" tvg-name="BAND SPORTS (1)" tvg-logo="https://as1.ftcdn.net/v2/jpg/00/47/78/96/1000_F_47789639_TTtuNSpYbtunAvap4c66CpstxyGxFp6Y.jpg" group-title="Canais Testes",PREMIERE CB TV 0800 (1)
+https://cdntv0800.com/premiere/tracks-v1a1/mono.m3u8?remote=168.228.200.136&token=3ec7495125639e26cd578e93c7102d80fb61bf9f-c6bb57ee6cba95e0c1cfd6a6b77f8b4b-1716131281-1716127681
+
 
 
 
